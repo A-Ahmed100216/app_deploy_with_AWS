@@ -1,0 +1,3 @@
+multi_machine_starter_code/.vagrant*
+*.log
+multi_machine_starter_code/app/node_modules*
