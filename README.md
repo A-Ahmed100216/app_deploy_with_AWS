@@ -35,3 +35,7 @@ EOF
 10. Push to Dev branch to trigger a build.     
 11. In order to test, a change was made to the app and the resulting webpage is shown below.    
 ![newpage](images/altered_page.png)
+
+
+# Testing Pipeline
+Test 1
